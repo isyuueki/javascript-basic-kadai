@@ -1,4 +1,4 @@
-let date = new Date(2024, 9, 12)
+let date = new Date(2025, 1, 17)
 const options = {
   year: 'numeric',
   month: 'long',
